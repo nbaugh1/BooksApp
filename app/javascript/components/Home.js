@@ -4,7 +4,7 @@ class Home extends React.Component {
   render () {
     return (
       <React.Fragment>
-        Tagline: {this.props.tagline}
+        Tagline: test {this.props.tagline}
       </React.Fragment>
     );
   }
